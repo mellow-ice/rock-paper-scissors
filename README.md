@@ -63,4 +63,4 @@ I made it while learning Python from freeCodeCamp and practiced improving it by 
 
 ## Author
 
-Made by [mellow-ice]
+Made by [thanaphat s.]
